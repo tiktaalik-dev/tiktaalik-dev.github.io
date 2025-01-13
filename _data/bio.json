@@ -6,13 +6,13 @@
     "email": "rodrigo@tiktaalik.dev",
     "phone": "+56 9 2845 2310",
     "website": "https://tiktaalik.dev",
-    "summary": "I am an Android/Web Developer, Fledging Data Scientist, Veterinarian, and Biomedical Scientific Translator. I am an Alumn of The University of Queensland (Australia), the University of Chile, and the 'Talento Digital' programme of the Chilean Ministry of Economy.<br>Let's build your next app together!",
+    "summary": "Android/Web Developer, Fledging Data Scientist, Veterinarian, and Biomedical Scientific Translator.<br><br>Alumn of The University of Queensland (Australia), the University of Chile, and the 'Talento Digital' programme of the Chilean Ministry of Economy.<br><br><strong>Let's build your next app together!</strong>",
     "location": { "address": "", "postalCode": "", "city": "Santiago", "countryCode": "CL", "region": "Región Metropolitana" },
     "profiles": [
       { "network": "github", "username": "tiktaalik-dev", "url": "https://github.com/tiktaalik-dev" },
       { "network": "linkedin", "username": "rodrigogambra", "url": "https://www.linkedin.com/in/rodrigogambra/" },
-      { "network": "Bluesky", "username": "@doctorrigo.bsky.social", "url": "https://bsky.app/profile/doctorrigo.bsky.social" },
-      { "network": "Mastodon", "username": "@DrRigo@mastodon.social", "url": "https://mastodon.social/@DrRigo" }
+      { "network": "bluesky", "username": "@doctorrigo.bsky.social", "url": "https://bsky.app/profile/doctorrigo.bsky.social" },
+      { "network": "mastodon", "username": "@DrRigo@mastodon.social", "url": "https://mastodon.social/@DrRigo" }
     ]
   },
   "interests": [
@@ -42,29 +42,31 @@
       "studyType": "Bachelor of Veterinary Biology",
       "startDate": "2009",
       "endDate": "2012",
-      "courses": [
-      ],
+      "courses": []
+    },
+    {
       "institution": "University of Chile, Chile",
       "area": "Veterinary Science",
       "studyType": "Doctor of Veterinary Medicine",
       "startDate": "2001",
       "endDate": "2005",
-      "courses": [
-      ],
+      "courses": []
+    },
+    {
       "institution": "Talento Digital, Chile",
       "area": "Data Science",
       "studyType": "Data Science Specialisation",
       "startDate": "2023",
       "endDate": "2023",
-      "courses": [
-      ],
+      "courses": []
+    },
+    {
       "institution": "Talento Digital, Chile",
       "area": "Computer Science",
       "studyType": "Android Development",
       "startDate": "2024",
       "endDate": "2024",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "work": [
