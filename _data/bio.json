@@ -1,118 +1,129 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Rodrigo Gambra-Middleton",
+    "label": "Android Developer | Web Developer | Data Scientist (trainee)",
+    "picture": "img/retrato-650x842.jpg",
+    "email": "rodrigo@tiktaalik.dev",
+    "phone": "+56 9 2845 2310",
+    "website": "https://tiktaalik.dev",
+    "summary": "I am an Android/Web Developer, Fledging Data Scientist, Veterinarian, and Biomedical Scientific Translator. I am an Alumn of The University of Queensland (Australia), the University of Chile, and the 'Talento Digital' programme of the Chilean Ministry of Economy.<br>Let's build your next app together!",
+    "location": { "address": "", "postalCode": "", "city": "Santiago", "countryCode": "CL", "region": "Región Metropolitana" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "tiktaalik-dev", "url": "https://github.com/tiktaalik-dev" },
+      { "network": "linkedin", "username": "rodrigogambra", "url": "https://www.linkedin.com/in/rodrigogambra/" },
+      { "network": "Bluesky", "username": "@doctorrigo.bsky.social", "url": "https://bsky.app/profile/doctorrigo.bsky.social" },
+      { "network": "Mastodon", "username": "@DrRigo@mastodon.social", "url": "https://mastodon.social/@DrRigo" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Veterinary Science" },
+    { "name": "Everything else in Science" },
+    { "name": "Python" },
+    { "name": "Android development" },
+    { "name": "Machine learning" },
+    { "name": "Languages (Korean, Japanese, German...)" },
+    { "name": "Astronomy" },
+    { "name": "Climate change" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Python", "R", "SQL", "Kotlin", "Java", "PHP", "Javascript", "HTML", "CSS" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Linux", "Android", "Windows", "Android Studio", "IntelliJ", "PHPStorm", "PyCharm", "Git/GitHub/BitBucket", "Jupyter Notebooks", "Anaconda/Mamba", "RStudio", "MySQL", "SQLite", "PostgreSQL", "Room library", "Retrofit", "Google Cloud Platform", "Tableau", "Matplotlib", "Seaborn", "ggplot2", "SciLearn", "SciKit", "Tensorflow" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "The University of Queensland, Australia",
+      "area": "Veterinary Science",
+      "studyType": "Bachelor of Veterinary Biology",
+      "startDate": "2009",
+      "endDate": "2012",
+      "courses": [
+      ],
+      "institution": "University of Chile, Chile",
+      "area": "Veterinary Science",
+      "studyType": "Doctor of Veterinary Medicine",
+      "startDate": "2001",
+      "endDate": "2005",
+      "courses": [
+      ],
+      "institution": "Talento Digital, Chile",
+      "area": "Data Science",
+      "studyType": "Data Science Specialisation",
+      "startDate": "2023",
+      "endDate": "2023",
+      "courses": [
+      ],
+      "institution": "Talento Digital, Chile",
+      "area": "Computer Science",
+      "studyType": "Android Development",
+      "startDate": "2024",
+      "endDate": "2024",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Tiktaalik Dev",
+      "position": "Software Developer | Founder",
+      "website": "https://tiktaalik.dev",
+      "startDate": "2021",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Development of web applications | Startup business management",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Developed payment gateway to connect Hikashop with Transbank Webpay",
+        "Designed and developed Tiktaalik Dev's website",
+        "Planned and executed administrative and business management tasks"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Tu Ciencia en Inglés",
+      "position": "Scientific Translator | Founder",
+      "website": "https://en-inglés.cl",
+      "startDate": "2016",
+      "endDate": "Present",
+      "summary": "Spanish-English Translation of scientific texts",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Helped Chilean scientists to publish their research in academic journals",
+        "Translation of Spanish scientific texts to English",
+        "Editing articles to conform to the style of the target journal",
+        "Building References list and checking citations"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "organization": "Asociación de Amigos del Animal Abandonado",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Secretary, Group Leader, and Volunteer",
+      "startDate": "1994",
+      "endDate": "1999",
+      "summary": "Leading member in charge of care, rehabilitation and rehoming of stary cats and dogs.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Member of the executive board of the association",
+        "Organisation of daily schedules for daily shelter activities",
+        "Feeding, care, rehabilitation of sheltered animals",
+        "Organisation and manning of adoption events"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Talento Digital Scholarship",
+      "date": "2023",
+      "awarder": "Talento Digital Programme of the Chilean Ministry of Economy",
+      "summary": "Scholarships awarded to a select group of applicants to complete an Specialisation in Data Science."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
+      "title": "Talento Digital Scholarship",
+      "date": "2024",
+      "awarder": "Talento Digital Programme of the Chilean Ministry of Economy",
+      "summary": "Scholarships awarded to a select group of applicants to become certified Android Developers."
     }
   ]
 }
