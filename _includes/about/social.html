@@ -1,10 +1,10 @@
 <a href="{{ include.url }}" target="_blank">
+  {% if include.name == 'bluesky' %}
+  <img src="{{ '/img/bluesky-icon.svg' | prepend: site.baseurl }}" class="tf-social"/>
+  {% else %}
   <svg class="tf-social">
-    {% if include.name == 'bluesky' %}
-    <use xlink:href="{{ '/img/bluesky-icon.svg' | prepend: site.baseurl }}"/>
-    {% else %}
     <use xlink:href="{{ '/img/bootstrap-icons.svg' | prepend: site.baseurl }}#{{- include.name -}}"/>
-    {% endif %}
+  {% endif %}
   </svg>
   <span>{{ include.label }}</span>
 </a>
