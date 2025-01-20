@@ -31,4 +31,4 @@ The application is fully functional and it implemented all the user-facing inter
 
 Sadly, I did not manage to secure the committment of interested parties to support the development and eventual transfer of the management of the platform. Therefore, though the application is currently still available as a proof of concept, all development has been halted since 2017 awaiting for better conditions. Nonetheless, I still intend to see it through someday though it will require upgrading it to modern standards.
 
-***The project demo is available [Here](https://alertaveterinaria.cl){:target="_blank"}.***
+***The project demo is available*** <a href="https://alertaveterinaria.cl" class="btn btn-outline-dark" target="_blank">Here</a>
